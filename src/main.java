@@ -4,5 +4,6 @@ public class main {
         System.out.println("This is for lab6 test.");
         System.out.println("Branch01 is created!");
         System.out.println("Branch02 is created!");
+
     }
 }
